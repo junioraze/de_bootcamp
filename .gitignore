@@ -1,0 +1,4 @@
+#Ignore any docker volume
+vlm/
+#Ignore parquet files
+.parquet
